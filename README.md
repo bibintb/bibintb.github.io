@@ -1,9 +1,1 @@
 # bibintb.github.io
-
-
-Hi dear. 
-
-I am a traveller. Traveeling thorugh infromations...
-I'm not working. Enjoying.... 
-
-I'm not fast... means I'm mining..... 

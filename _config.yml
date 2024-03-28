@@ -5,8 +5,8 @@ theme: minima
 locale: en_US # Specify the locale if you're targeting specific regions
 
 author: 
-  name: "Bibin T B"
-  email: "bibintb@duck.com" # Consider using a professional email if available
+  "Bibin T B"
+  "bibintb@duck.com" # Consider using a professional email if available
 
 social_media:
   twitter: "your_twitter_username"

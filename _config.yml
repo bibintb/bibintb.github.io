@@ -1,25 +1,47 @@
- 
-title: My Personal Portfolio
-description: This is my personal portfolio showcasing my journey and interests.
-theme: minima
-locale: en_US # Specify the locale if you're targeting specific regions
+title: "My Personal Portfolio"
+description: "Welcome to my personal portfolio. Discover the milestones of my professional journey, the skills I've honed, and the projects I've brought to life. Explore and connect with me."
 
-author: 
-  "Bibin T B"
-  "bibintb@duck.com" # Consider using a professional email if available
+# Beautiful and intuitive theme to enhance visual appeal
+theme: "minimal-mistakes" # Switch to a visually appealing theme known for its clean layout and responsiveness
+
+locale: "en_US" # Locale is correctly set for targeting English-speaking regions
+
+author:
+  name: "Your Full Name"
+  email: "your.email@example.com" # Using a placeholder for a professional email
+  bio: "Innovator at heart, Developer by skill. Exploring the nexus of technology and impact."
 
 social_media:
-  twitter: "your_twitter_username"
+  twitter: "@your_twitter_username"
   github: "your_github_username"
-  linkedin: "your_linkedin_profile" # Adding LinkedIn for professional networking
+  linkedin: "your_linkedin_profile_url" # Ensure this is a full URL to your LinkedIn profile for direct access
+  medium: "@your_medium_username" # Adding Medium for those interested in your articles or blogs
 
-minima:
-  skin: dark # Enable dark mode for better readability and modern look
+# Improving aesthetic and user experience
+minimal-mistakes:
+  skin: "dark" # Dark mode enhances readability and is aesthetically pleasing
+  layout: "single" # Default layout for single posts and pages for coherence
+  header:
+    overlay_color: "#333" # Semi-transparent overlay for the header image for better text visibility
+    overlay_image: "/assets/images/header-background.jpg" # A professional header background image
 
-# Optional settings
-permalink: /:categories/:title/ # Custom URL structure
-paginate: 5 # Paginate posts - adjust number as needed
+# Enhancements for SEO and site navigation
+permalink: "/:categories/:year/:title/" # Enhanced URL structure including the year for better organization
+paginate: 10 # Showing more posts per page
 
-# SEO tags
+# Important for SEO and site discovery
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate # Ensure pagination is supported for listing projects or posts
+
+# Additional functionality
+google_analytics: "UA-XXXXX-Y" # Track site traffic and user behavior (replace with your actual tracking ID)
+
+# Custom sections for showcasing projects and skills
+collections:
+  projects:
+    output: true
+    permalink: "/projects/:name/"
+  skills:
+    output: true
+    permalink: "/skills/:name/"

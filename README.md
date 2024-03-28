@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to My World of Innovation
 **Hi, I'm [Your Name]!** 🌟 Embark on a journey through my creations, discoveries, and passions in the realm of technology. With a penchant for problem-solving and a zest for continuous learning, I invite you to explore the milestones of my professional saga.
 
@@ -26,4 +31,3 @@ Ready to collaborate or curious to chat about the future of technology? Reach ou
 - [GitHub](https://github.com/your_github_username) - Explore my code
 - [Twitter](https://twitter.com/your_twitter_username) - Follow my tech and life musings
 - [LinkedIn](https://linkedin.com/in/your_linkedin_profile) - Let's professionally connect
-

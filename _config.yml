@@ -1,12 +1,12 @@
  
 title: My Personal Portfolio
-description: This is my personal portfolio showcasing my projects, skills, and achievements. Dive in to explore more about my professional journey and interests.
+description: This is my personal portfolio showcasing my journey and interests.
 theme: minima
 locale: en_US # Specify the locale if you're targeting specific regions
 
-author:
+author: bibin t b
   name: "Your Full Name"
-  email: "name@duck.com" # Consider using a professional email if available
+  email: "bibintb@duck.com" # Consider using a professional email if available
 
 social_media:
   twitter: "your_twitter_username"

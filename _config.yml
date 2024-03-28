@@ -4,8 +4,8 @@ description: This is my personal portfolio showcasing my journey and interests.
 theme: minima
 locale: en_US # Specify the locale if you're targeting specific regions
 
-author: bibin t b
-  name: "Your Full Name"
+author: 
+  name: "Bibin T B"
   email: "bibintb@duck.com" # Consider using a professional email if available
 
 social_media:

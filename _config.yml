@@ -1,26 +1,24 @@
 title: My Personal Portfolio
-description: Welcome to my personal portfolio where I showcase my projects and skills.
+description: This is my personal portfolio showcasing my projects, skills, and achievements. Dive in to explore more about my professional journey and interests.
 theme: minima
+locale: en_US # Specify the locale if you're targeting specific regions
 
-author: Bibin T B
-email: [bibintb@duck.com](mailto:bibintb@duck.com)
+author:
+  name: "Your Full Name"
+  email: "name@duck.com" # Consider using a professional email if available
+
 social_media:
-twitter: your_twitter_username
-github: your_github_username
+  twitter: "your_twitter_username"
+  github: "your_github_username"
+  linkedin: "your_linkedin_profile" # Adding LinkedIn for professional networking
 
 minima:
-skin: dark # Use a dark theme variant
+  skin: dark # Enable dark mode for better readability and modern look
 
----
+# Optional settings
+permalink: /:categories/:title/ # Custom URL structure
+paginate: 5 # Paginate posts - adjust number as needed
 
-## layout: default
-title: Home
-
-# Welcome to My Site
-
-Here's some content about me.
-
----
-
-## layout: default
-title: Home
+# SEO tags
+plugins:
+  - jekyll-seo-tag

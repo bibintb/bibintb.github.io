@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My World of Innovation
 **Hi, I'm [Your Name]!** 🌟 Embark on a journey through my creations, discoveries, and passions in the realm of technology. With a penchant for problem-solving and a zest for continuous learning, I invite you to explore the milestones of my professional saga.
 

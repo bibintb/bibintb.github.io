@@ -14,6 +14,6 @@ Explore my projects where code meets creativity, each one a unique universe born
 
 **Artificial Intelligence for Healthcare**
 
-: A project focused on utilizing Machine Learning to predict patient outcomes and improve healthcare efficiency.
+:A project focused on utilizing Machine Learning to predict patient outcomes and improve healthcare efficiency.
 
 

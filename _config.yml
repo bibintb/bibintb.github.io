@@ -1,8 +1,5 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
-
-
-# Welcome to My Digital Wonderland!
-
-Hello, fellow tech enthusiast! I'm a seasoned technocrat, adept at intertwining the magic of technology with the grounded reality of business, spawning innovation, efficiency, and success.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Your Name - Professional Portfolio
+description: Web Developer & Designer

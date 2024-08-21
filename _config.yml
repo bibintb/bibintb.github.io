@@ -1,20 +1,19 @@
 # Basic Configuration  
-name: Reverie  
-author: Your Name  
+name: Bibin  
+author: Bibin T B  
 description: An elegant Jekyll theme  
-avatar: /images/reverie.png  
+avatar: /images/bibin.png  
   
 # Social Links in Footer  
 footer-links:  
   dribbble:   
-  email: your-email@example.com  
+  email: bibintb@duck.com  
   facebook:   
   flickr:   
-  github: your-username  
+  github: bibintb 
   instagram:   
   linkedin:   
   pinterest:   
-  rss: rss  
   twitter: your_twitter_handle  
   stackoverflow:   
   youtube: # channel/<your_long_string> or user/<user-name>  
@@ -31,8 +30,8 @@ google_analytics: UA-XXXXXXXX-X
 # google_analytics_ga4: G-GABC1DEFG  
   
 # Website URL  
-url: https://yourusername.github.io  
-enforce_ssl: https://yourusername.github.io  
+url: https://bibintb.github.io  
+enforce_ssl: https://bibintb.github.io  
   
 # Base URL  
 baseurl: ""  
